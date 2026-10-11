@@ -1,0 +1,77 @@
+﻿
+{
+  "workers": {
+    "DE:B8:08:05": {
+      "employee_id": "SAFE001",
+      "name": "Nirmalya",
+      "designation": "General Worker",
+      "required_ppe": [
+        "helmet",
+        "vest",
+        "safety_footwear"
+      ],
+      "ppe_kit": [
+        "ISI-marked safety helmet",
+        "High-visibility reflective vest",
+        "Safety shoes",
+        "Protective work gloves",
+        "Safety goggles where required by the task"
+      ],
+      "estimated_kit_budget_inr": "1500-2500"
+    },
+    "51:DE:33:02": {
+      "employee_id": "SAFE002",
+      "name": "Vishal",
+      "designation": "General Worker",
+      "required_ppe": [
+        "helmet",
+        "vest",
+        "safety_footwear"
+      ],
+      "ppe_kit": [
+        "ISI-marked safety helmet",
+        "High-visibility reflective vest",
+        "Safety shoes",
+        "Protective work gloves",
+        "Safety goggles where required by the task"
+      ],
+      "estimated_kit_budget_inr": "1500-2500"
+    },
+    "2B:A5:E6:00": {
+      "employee_id": "SAFE003",
+      "name": "Biswajit",
+      "designation": "Electrical Technician",
+      "required_ppe": [
+        "helmet",
+        "vest",
+        "safety_footwear",
+        "task_specific_electrical_protection"
+      ],
+      "ppe_kit": [
+        "Safety helmet suitable for the electrical hazard",
+        "High-visibility reflective vest",
+        "Electrical-hazard-rated footwear where required",
+        "Voltage-rated insulating gloves selected for the task",
+        "Arc-rated clothing and face protection where the risk assessment requires them"
+      ],
+      "estimated_kit_budget_inr": "3000-6000+"
+    },
+    "02:4E:33:02": {
+      "employee_id": "SAFE004",
+      "name": "Rudra",
+      "designation": "Site Supervisor",
+      "required_ppe": [
+        "helmet",
+        "vest",
+        "safety_footwear"
+      ],
+      "ppe_kit": [
+        "ISI-marked safety helmet",
+        "High-visibility reflective vest",
+        "Safety shoes",
+        "Safety goggles and gloves when required by the work area"
+      ],
+      "estimated_kit_budget_inr": "2000-3500"
+    }
+  }
+}
